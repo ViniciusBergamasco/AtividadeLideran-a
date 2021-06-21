@@ -1,0 +1,70 @@
+        a.link:link 
+        { 
+         text-decoration:none;
+        }
+        a.link:hover 
+        {
+            font-size: 20px;
+            color: #00376a;
+        }
+
+        a.link
+        {
+            color: black;
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            color: white;
+        }
+
+        h1.texto 
+        {
+            text-align: center;
+
+        }
+        
+        .texto 
+        {
+            text-align: left;
+            margin-left: 4%;
+            margin-right: 4%;
+            margin-bottom: 1%;
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            color: white;
+        }
+
+        .cabecalho
+        {
+           text-align: center;
+           margin-bottom: 1%;
+        }
+
+        .menu
+        {
+            text-align: left;
+            margin-left: 10%;
+        }
+
+        .imagem
+        {
+            text-align: left;
+            margin-left: 9%;
+        }
+
+        body
+        {
+            background-color: #5189b6;
+        }
+
+        li 
+        {
+            color: #00376a
+        }
+
+        .texto-footer
+        {
+            text-align: right;
+            margin-left: 4%;
+            margin-right: 4%;
+            margin-bottom: 1%;
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            color: white;
+        }
